@@ -11,10 +11,6 @@ a {
   list-style: none;
 }
 
-a:hover {
-  color: beige;
-}
-
 .container-fluid {
   padding: 0;
 }
