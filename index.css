@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic+Coding&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+* {
+  font-family: 'Poppins', sans-serif;
+}
+
 ul,
 li,
 a {
@@ -7,4 +13,22 @@ a {
 
 a:hover {
   color: beige;
+}
+
+.container-fluid {
+  padding: 0;
+}
+
+.nav {
+  font-family: 'Poppins', sans-serif !important;
+  position: sticky;
+  top: 0;
+}
+
+.introduce {
+  max-width: 750px;
+}
+
+.card {
+  margin: 0 auto;
 }
