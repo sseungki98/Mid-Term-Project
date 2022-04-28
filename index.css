@@ -28,3 +28,13 @@ a {
 .card {
   margin: 0 auto;
 }
+
+.nav-link {
+  color: bisque;
+}
+.nav-link:hover {
+  color: white;
+}
+
+body {
+}
