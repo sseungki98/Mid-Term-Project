@@ -39,3 +39,9 @@ a {
 .size-20 {
   font-size: 20px;
 }
+
+.peng {
+  border-radius: 10%;
+  margin: 0 auto;
+  display: block;
+}
